@@ -1,4 +1,6 @@
 # MongoDB-
+Note: please see in raw format
+
 Data Wrangling with MongoDB( using basic queries as well as aggregation pipelines to analyse data)
 All the queries in this repository are run against a MongoDb instance provided with "Data Wrangling with MongoDB" course at UDACITY.
 
