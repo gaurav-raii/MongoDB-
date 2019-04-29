@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 29 13:04:07 2019
 
-@author: gaura
+@author: gaurav rai
 """
 # all these queries are run against a mongoDB instance provided with the "Data Wrangling with MongoDB" course at Udacity
 
