@@ -20,7 +20,9 @@ An example Document from the "cities" collection from "examples" database
    
    "lat" : 33.08,
    
-   "isPartOf" : [
+   "isPartOf" : 
+   
+   [
    
         "Jammu and Kashmir",
         
