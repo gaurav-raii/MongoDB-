@@ -21,20 +21,12 @@ An example Document from the "cities" collection from "examples" database
    "lat" : 33.08,
    
    "isPartOf" : 
-   
-   [
-   
-        "Jammu and Kashmir",
+    
+        ["Jammu and Kashmir",
         
-        "Udhampur district"
+        "Udhampur district"],
     
-    ],
-    
-    "timeZone" : [
-        
-        "Indian Standard Time"
-    
-    ],
+    "timeZone" : "Indian Standard Time",
     
     "population" : 1140
 
