@@ -1,7 +1,7 @@
-# MongoDB-
+# Data Wrangling with MongoDB 
 
-Data Wrangling with MongoDB( using basic queries as well as aggregation pipelines to query and analyse data)
-All the queries in this repository are run against a MongoDb instance provided with "Data Wrangling with MongoDB" course at UDACITY.
+* Data Wrangling with MongoDB using basic queries as well as aggregation pipelines to query and analyse data
+* All the queries in this repository are run against a MongoDb instance provided with "Data Wrangling with MongoDB" course at UDACITY.
 
 
 An example Document from the "cities" collection from "examples" database
